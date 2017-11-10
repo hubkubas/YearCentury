@@ -10,4 +10,4 @@ return wiek;
 }
 }
 
-console.log(centuryFromYear(year)+" century");
+console.log(centuryFromYear(year)+" century.");
